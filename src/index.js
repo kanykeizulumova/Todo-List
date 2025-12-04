@@ -8,7 +8,7 @@ renderTodos(allTodos);
 renderProjectsMenu();
 showAddTodoForm();
 showAddProjectForm();
-renderAllTasks()
+renderAllTasks();
 
 
 
