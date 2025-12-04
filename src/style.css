@@ -167,7 +167,8 @@ nav.side-bar {
   background-color: #99c7c3;
 }
 
-.delete-button {
+.delete-button,
+.edit-button {
   padding: 0.4rem 1.5rem;
   border: none;
   border-radius: 5px;
@@ -177,7 +178,8 @@ nav.side-bar {
   font-size: large;
 }
 
-.delete-button:hover {
+.delete-button:hover,
+.edit-button:hover {
   background-color: #16150f;
   color: white;
 }
