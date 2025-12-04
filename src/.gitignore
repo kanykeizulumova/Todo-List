@@ -1,3 +1,7 @@
-node_modules/
-.env
-dist
+# Зависимости
+/node_modules
+/package-lock.json
+
+# Скомпилированные файлы/артефакты сборки
+/dist
+.DS_Store
